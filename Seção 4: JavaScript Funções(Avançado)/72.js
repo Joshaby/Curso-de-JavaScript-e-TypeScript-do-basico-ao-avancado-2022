@@ -1,3 +1,5 @@
+// 72. Closures
+
 function retornaFuncao(nome) {
     return function(nome) {
         return nome;

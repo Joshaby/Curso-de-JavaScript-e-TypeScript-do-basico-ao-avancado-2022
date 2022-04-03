@@ -1,3 +1,5 @@
+// 71. Escopo léxico
+
 function criaPessoa(nome, sobrenome) {
     return { nome,sobrenome };
 }
